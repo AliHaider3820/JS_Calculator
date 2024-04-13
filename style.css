@@ -1,0 +1,56 @@
+body {
+    background-color: rgb(2, 2, 35)
+}
+
+#display {
+    width: 370px;
+    height: 540px;
+    border: 1px solid rgb(238, 223, 223);
+    text-align: center;
+    margin: 55px;
+    margin-left: 33%;
+}
+
+#show {
+    width: 300px;
+    height: 50px;
+    border: 1px solid rgb(238, 223, 223);
+    outline: none;
+    background-color: transparent;
+    margin-top: 25px;
+    margin-bottom: 11px;
+    color: white;
+    margin: 32px;
+    text-align: right;
+    font-size: 40px;
+    border-radius: 15%;
+
+}
+
+::placeholder {
+    color: white;
+}
+
+.btn {
+    width: 60px;
+    height: 60px;
+    background-color: transparent;
+    color: white;
+    border-radius: 30%;
+    border: none;
+    outline: none;
+    font-size: 22px;
+    margin: 10px;
+    box-shadow: -4px -4px 10px rgb(204, 202, 202, 0.363);
+
+}
+
+#sym {
+    color: rgb(16, 239, 16);
+
+}
+
+#sym1 {
+    background-color: rgb(255, 166, 1);
+
+}
